@@ -1,0 +1,20 @@
+{
+  "name": "karmy-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joel Eriksson",
+  "license": "ISC",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "randomcolor": "^0.4.3",
+    "socket.io": "^1.4.5",
+    "uid": "0.0.2"
+  }
+}
